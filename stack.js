@@ -58,7 +58,6 @@ let stack = new Stack();
 
 stack.push('do job');
 stack.push('rest');
-stack.push('fuck wife');
 stack.push('sleep');
 stack.pop();
 
