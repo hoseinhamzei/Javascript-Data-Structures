@@ -58,7 +58,6 @@ let q = new Queue();
 
 q.enqueue('do job');
 q.enqueue('rest');
-q.enqueue('fuck wife');
 q.enqueue('sleep');
 q.dequeue();
 q.enqueue('in');
